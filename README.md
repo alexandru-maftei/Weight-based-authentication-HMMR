@@ -30,12 +30,9 @@ This repository contains the implementation of a novel blockchain-based authenti
 ---
 
 ## 📁 Repository Structure
-├── auth/ # Weight-based authentication modules
-
-├── hmmr/ # HMMR data structure implementation
-
-└── README.md # Project overview
-
+├── auth/  
+├── hmmr/  
+└── README.md
 ---
 
 ## 📊 Data Availability
