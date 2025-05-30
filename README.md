@@ -30,10 +30,10 @@ This repository contains the implementation of a novel blockchain-based authenti
 ---
 
 ## 📁 Repository Structure
-├─ auth/  
+├ auth/  
 ├ hmmr/  
 ├ data/  
-└── README.md
+├ README.md
 ---
 
 ## 📊 Data Availability
