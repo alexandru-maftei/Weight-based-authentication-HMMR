@@ -32,11 +32,6 @@ This repository contains the implementation of a novel blockchain-based authenti
 ## 📁 Repository Structure
 ├── auth/ # Weight-based authentication modules
 ├── hmmr/ # HMMR data structure implementation
-├── tests/ # Benchmarking, experiments, and evaluations
-├── data/ # Output CSVs for plotting (generated dynamically)
-├── figures/ # Sample plots based on metrics
-├── main.py # Entry point for testing both modules
-├── requirements.txt # Required Python libraries
 └── README.md # Project overview
 
 ---
